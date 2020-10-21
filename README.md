@@ -10,3 +10,6 @@ docker run -it -p 3000:3000 -e CHOKIDAR_USEPOLLING=true -v /app/node_modules -v 
 
 ### Run with docker compose
 docker-compose up
+
+### Run tests with docker
+docker run --it CONTAINER_ID npm run test
