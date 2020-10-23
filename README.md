@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/troig/learn-docker-kubernetes.svg?branch=develop)](https://travis-ci.org/troig/learn-docker-kubernetes)
+
 ## Available Scripts
 
 In the project directory, you can run:
