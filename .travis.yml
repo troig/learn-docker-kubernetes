@@ -14,7 +14,7 @@ deploy:
   provider: elasticbeanstalk
   region: "eu-west-1"
   app: "learn-docker-kubernetes"
-  env: "LearnDockerKubernetes-env"
+  env: "LearnDockerKubernetes-env-1"
   bucket_name: "elasticbeanstalk-eu-west-1-062793652651"
   bucket_path: "learn-docker-kubernetes"
   on:
